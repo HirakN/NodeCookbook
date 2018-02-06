@@ -1,7 +1,10 @@
 # Node Web Server Chef Cookbook
 
 ## Description
-This repository is a chef cookbook for configuring a web server for a node.js application. Ngninx is used.
+
+- This repository is a chef cookbook for configuring a web server for a node.js application. 
+- Ngninx is used as the web server.
+- The VM OS is ubuntu 16.04
 
 ## Prerequistes
 To begin, download the following programs and install them:
