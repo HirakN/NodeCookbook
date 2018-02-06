@@ -1,7 +1,7 @@
-# node
+# Node web server
 
 ## Description
-This repository is a chef cookbook for configuring a web server for a node.js application.
+This repository is a chef cookbook for configuring a web server for a node.js application. Ngninx is used.
 
 ## Prerequistes
 You will need to install:
@@ -14,7 +14,10 @@ To begin, download the following programs and install them:
 [ChefDK](https://downloads.chef.io/chefdk)(2.4.17)
 
 ## Usage
-To use:
+
+First clone the [repository](https://github.com/HirakN/NodeCookbook).
+
+To create a preconfigured VM:
 
 ```bash
 kitchen create
