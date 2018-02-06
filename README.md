@@ -1,4 +1,4 @@
-# Node web server
+# Node Web Server Chef Cookbook
 
 ## Description
 This repository is a chef cookbook for configuring a web server for a node.js application. Ngninx is used.
